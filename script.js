@@ -1,6 +1,4 @@
-// let hours = prompt('Введіть кількість годин:');
-
-// console.log(hours1);
+// let hours1 = prompt('Введіть кількість годин:');
 
 // let seconds = hours1 * 3600;
 
